@@ -1,72 +1,28 @@
-# Hi there 👋 I'm Francisco
+# Francisco Toranza
 
-🎓 Estudiante del último año de Ingeniería en Sistemas de Información (UTN)  
-💻 Desarrollador de Software Junior  
-📍 Argentina
+Estudiante avanzado de Ingeniería en Sistemas de Información (UTN Villa María).
+Me interesa la infraestructura, los servidores y las redes.
 
----
+Administro un VPS en producción donde despliego y mantengo una plataforma de
+gestión para una cooperativa de servicios públicos: 5 contenedores Docker,
+PostgreSQL con PostGIS, Caddy con TLS automático, backups con restore verificado
+y monitoreo de disponibilidad.
 
-## 🚀 About me
-Soy estudiante avanzado de Ingeniería en Sistemas, con fuerte interés en el desarrollo de software.  
-Trabajo principalmente con **Node.js y Express**, desarrollando APIs REST y proyectos full stack académicos.  
-Actualmente estoy aprendiendo **C#, .NET y Blazor**.
+## Con lo que trabajo
 
-Busco mi primera oportunidad laboral en el área de sistemas o desarrollo de software.
+**Infraestructura** · Linux, Docker y Docker Compose, Nginx, Caddy, SSH, Bash, cron  
+**Bases de datos** · PostgreSQL, PostGIS, Redis, SQL, modelado y migraciones  
+**Backend** · TypeScript/NestJS, Java 17 + Jakarta EE, Node.js, APIs REST  
+**Frontend** · React, Thymeleaf  
+**Otros** · Git, GitHub Actions, CI/CD
 
----
+## Proyectos
 
-## 🛠️ Technologies & Tools
+**Plataforma de gestión de reclamos y mapa de red** — en producción desde julio 2026.
+1.444 socios, 167 endpoints, 894 tests automatizados. Repo privado; documentación
+técnica disponible a pedido.
 
-**Languages**
-- JavaScript
-- SQL
-- C# (learning)
-- Java (learning)
+**ContaKIT Web** — migración de un sistema de contabilidad de escritorio a web.
+Java 17, Jakarta EE 10, Apache TomEE, PostgreSQL.
 
-**Backend**
-- Node.js
-- Express
-- REST APIs
-- ASP.NET Core (.NET – learning)
-
-**Frontend**
-- React (learning)
-- Blazor (learning)
-- HTML, CSS
-
-**Databases**
-- PostgreSQL
-- MongoDB
-- SQL Server
-
-**Tools**
-- Git & GitHub
-- Docker / Docker Compose
-- WSL (Ubuntu)
-- Visual Studio Code
-
----
-
-## 📂 Projects
-🔒 Algunos proyectos están en repositorios privados (académicos o en desarrollo).  
-📌 Próximamente iré publicando proyectos demostrativos.
-
----
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/francisco-toranza-91a10021b/
-
-<!--
-**fran-toranza/fran-toranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Villa María, Córdoba · [LinkedIn](https://www.linkedin.com/in/francisco-toranza-91a10021b/)
