@@ -18,9 +18,11 @@ y monitoreo de disponibilidad.
 
 ## Proyectos
 
-**Plataforma de gestión de reclamos y mapa de red** — en producción desde julio 2026.
-1.444 socios, 167 endpoints, 894 tests automatizados. Repo privado; documentación
-técnica disponible a pedido.
+**Plataforma de gestión de reclamos y mapa de red** — en producción desde julio 2026,
+como único desarrollador. 186 endpoints, 2.294 tests automatizados, backups con
+restauración probada. Arquitectura, decisiones técnicas y aprendizajes en
+[sistema-reclamos-cooperativa](https://github.com/fran-toranza/sistema-reclamos-cooperativa)
+(el código es privado).
 
 **ContaKIT Web** — migración de un sistema de contabilidad de escritorio a web.
 Java 17, Jakarta EE 10, Apache TomEE, PostgreSQL.
